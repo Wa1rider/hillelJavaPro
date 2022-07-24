@@ -1,4 +1,4 @@
-package hw4;
+package hw4.Bet;
 
 import lib.Dao;
 import lib.Inject;
