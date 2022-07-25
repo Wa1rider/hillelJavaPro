@@ -1,4 +1,4 @@
-package hw5.Bet;
+package hw6.Bet;
 
 public class BetException extends Exception {
 

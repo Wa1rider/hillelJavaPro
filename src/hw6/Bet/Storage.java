@@ -1,4 +1,4 @@
-package hw5.Bet;
+package hw6.Bet;
 
 import java.util.ArrayList;
 import java.util.List;
