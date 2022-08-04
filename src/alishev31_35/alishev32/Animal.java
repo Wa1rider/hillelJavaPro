@@ -1,4 +1,4 @@
-package alishev26_30.alishev29;
+package alishev31_35.alishev32;
 
 public class Animal {
     public void eat() {

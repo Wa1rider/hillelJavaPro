@@ -1,4 +1,4 @@
-package hw6.Bet;
+package Bet;
 
 import java.util.Objects;
 
